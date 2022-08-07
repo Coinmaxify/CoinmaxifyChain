@@ -1,2 +1,2 @@
 GO CoinmaxifyChain
-Official Golang implementation of the Coinmaxify Blockchain protocol.
+Coinmaxify Blockchain is an EVM-compatible, PoS/PoA Blockchain Network
